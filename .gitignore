@@ -1,0 +1,7 @@
+# Ignore PDF files to prevent uploading customer notices to public GitHub repository
+*.pdf
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+desktop.ini
